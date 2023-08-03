@@ -1,1 +1,2 @@
 juan carlos= red
+daniel alejandro = blue
