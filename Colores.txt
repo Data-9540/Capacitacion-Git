@@ -3,3 +3,4 @@ negro
 verde
 blue
 purple
+cyan
