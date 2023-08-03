@@ -2,3 +2,4 @@ juan carlos= red
 camila ruiz= negro
 misael rr = green
 daniel lopez = blue
+alan = purple
